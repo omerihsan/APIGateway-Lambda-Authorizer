@@ -1,0 +1,11 @@
+{
+  "name": "api-gateway-lambda-authorizer",
+  "version": "1.0.0",
+  "description": "middleware authorizer for api gateway and lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
