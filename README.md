@@ -1,3 +1,2 @@
 # API-Gateway-Lambda-Authorizer
- middleware authorizer for api gateway and lambda
- used with Serverless Framework
+Custom Authorizer function for serverless framework used in lambda. used as a middleware to auth users etc. 
